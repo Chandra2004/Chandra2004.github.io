@@ -1,0 +1,89 @@
+isi form
+
+FORMULIR PENDAFTARAN PESERTA DIDIK BARU 2023
+
+PERSYARATAN CALON PESERTA DIDIK BARU
+- Scan IJAZAH / UAS.
+- Scan Pas Foto Ukuran 3 x 4.
+- Scan Akte Kelahiran.
+- Scan Kartu Keluarga.
+
+
+Registrasi Peserta Didik
+	Nama Lengkap				:
+	Jenis Kelamin				: - Laki-laki
+								  - Perempuan
+	Tempat Lahir 				:
+	Tanggal Lahir 				:
+	Agama						: - Islam
+								  - Kristen
+								  - Katholik
+								  - Budha
+								  - Hindu
+								  - Konghucu
+								  - Lain-lain
+	Nama Asal Sekolah			:
+	NISN						:
+	No. Kartu Keluarga			:
+	No. Induk Kependudukan (NIK):
+	No. Telp / Whatapp			:
+	Email						:
+
+Keterangan Tempat Tinggal
+	Alamat Rumah				:
+	Desa						:
+	Kecamatan					:
+	Kabupaten					:
+	Provinsi					:
+	Tinggal Dengan				: - Bersama Ortu
+								  - Asrama
+								  - Kost
+								  - Lain-lain
+
+Data Orang Tua / Wali
+	Data Ayah Kandung
+		Nama ayah				:
+		Tahun Kelahiran			:
+		Pendidikan				: - Tidak Sekolah
+								  - SD
+								  - SMP / Sederajat
+								  - SMA / Sederajat
+								  - D2
+								  - D3
+								  - D4 / S1
+								  - S2
+								  - S3
+		Pekerjaan				:
+		Penghasilan				:
+		No. Telp / Whatsapp		:
+	Data Ibu Kandung
+		Nama Ibu				:
+		Tahun Kelahiran			:
+		Pendidikan				: - Tidak Sekolah
+								  - SD
+								  - SMP / Sederajat
+								  - SMA / Sederajat
+								  - D2
+								  - D3
+								  - D4 / S1
+								  - S2
+								  - S3
+		Pekerjaan				:
+		Penghasilan				:
+		No. Telp / Whatsapp		:
+
+	Data Pribadi
+		Jumlah Saudara			:
+		Tinggi Badan			:
+		Berat Badan				:
+		Hobi					:
+
+
+Pengumpulan Data
+	Scan Pas Foto 3 x 4			:
+	Scan SKHU / IJAZAH			:
+	Scan Kartu Keluarga			:
+	Scan Akta Kelahiran			:
+
+I AGREE TO TERMS & CONDITIONS.
+
